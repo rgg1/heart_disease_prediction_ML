@@ -40,8 +40,9 @@ The following libraries are required to run the notebook:
 
 To install the specific libraries, use:
 
-! pip install torchmetrics -q
-! pip install torchinfo -q
+`! pip install torchmetrics -q`
+
+`! pip install torchinfo -q`
 
 If running on Google Colab, these should be the only libraries you need to install.
 
